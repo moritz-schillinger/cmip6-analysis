@@ -127,3 +127,136 @@ Chapters in Code 1: All_Variable_Analysis
 
 Chapters in Code 2: New_Diffmap
 
+##### 0. Packages
+############################################################################################
+##### 1. Preparations
+############################################################################################
+
+##### DIFFMAP SINGLE MODEL ITERATION ######
+###### 1A: cVeg_ssp126 
+###### 1B: cVeg_ssp585
+###### 2A: treeFrac_ssp126 
+###### 2B: treeFrac_ssp585 
+######  3: cVeg_ssp585-BGC
+######  4: treeFrac_ssp585-BGC
+###### 5A: cLand_ssp126
+###### 5B: cLand_ssp585
+###### 6A: gpp_ssp126
+###### 6B: gpp_ssp585
+###### 7A: npp_ssp126 
+###### 7B: npp_ssp585
+###### 8A: nep_ssp126
+###### 8B: nep_ssp585
+###### 9A: nbp_ssp126
+###### 9B: nbp_ssp585 
+############################################################################################
+##### ENSEMBLE DIFFMAP
+##### 1. 1A: cVeg SSP126 #####
+####### 1530
+####### 85100 
+####### plot 1530+851000
+####### abschange
+####### relchange 
+##### 1. 1B: cVeg SSP585 #####
+####### 1530
+####### 85100
+####### plot 1530+851000 
+####### abschange 
+####### relchange 
+##### 2. 2A: treeFrac SSP126 
+####### 1530 
+####### 85100
+####### plot 1530+851000
+####### abschange
+##### 2. 2B: treeFrac SSP585 ######
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+##### 3. cVeg SSP585-BGC
+####### 1530 
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 5. 5A: cLand SSP126 
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 5. 5B: cLand SSP585
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange 
+####### relchange
+##### 6. 6A: GPP SSP126
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 6. 6B: GPP SSP585
+####### 1530 
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 7. 7A: NPP SSP126
+####### 1530 
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 7. 7B: NPP SSP585
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 8. 8A: NEP SSP126 ######
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 8. 8B: NEP SSP585
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 9. 9A: NBP SSP126 ######
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##### 9. 9B: NBP SSP585 ######
+####### 1530
+####### 85100
+####### plot 1530+851000
+####### abschange
+####### relchange
+##########################################################
+####### PANEL PLOTS #######
+##### check out a few things
+####################### LEVELPLOT #######################
+##### 1A. cVeg SSP1 abschange
+##### 1A. cVeg SSP1 relchange
+##### 1B. cVeg SSP5 abschange
+##### 1B. cVeg SSP5 relchange
+##### 2A. treeFrac SSP1 abschange
+##### 3. cVeg SSP5-BGC abschange
+##### 3. cVeg SSP5-BGC relchange
+##### 1AB. cVeg SSP1+SSP5 85100
+##### 9B. NBP SSP5 85100 
+##### 9A. NBP SSP1 85100
+##### 8B. NEP SSP5 85100
+##### 8A. NEP SSP1 85100
+#########################################################
+##### PANEL #############################################
+#### PRECIPITATION DIFFMAP
+### Stack abschange ssp1+5
+### Stack relchange ssp1+5
